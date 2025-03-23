@@ -18,6 +18,5 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.9"
-    // npm i nodemon -D for creating the script to start tehe server as this works in real time updates
   }
 }
